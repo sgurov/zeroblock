@@ -1,0 +1,65 @@
+2ip.io
+generator-warp.github.io
+nanobanana.io
+devexpress.com
+fivetran.com
+portainer.io
+docs.portainer.io
+docs.kafka-ui.provectus.io
+arango.ai
+docs.arango.ai
+confluent.io
+camunda.com
+camunda.io
+fonts.camunda.io
+console.camunda.io
+redis.io
+apollographql.com
+apache.org
+nssm.cc
+tampermonkey.net
+stripe.com
+q.stripe.com
+flashscore.com
+flashscore.mobi
+flashscorekz.com
+lscdn.eu
+static.flashscore.com
+livesport-ott-images.ssl.cdn.cra.cz
+livesport.cz
+lsops.net
+# telegram
+ton.org
+# amnezia
+amnezia.org
+amnezia.host
+# SE.AKM-01
+cdn.apple-mapkit.com
+# US.MBCOM-01
+elecane.com
+# FR.OVH-02
+www.emca.be
+# FR.CNTB-01
+antoniotartaglia.it
+# FR.CNTB-02
+status.moow.info
+# US.FTBVM-01
+buyvm.net
+# US.FTBVM-02
+dmvideo.download
+# NL.MS-01
+store.takeda.com
+# UK.DO-01
+kingswoodssweets.co.uk
+# testcontainers
+testcontainers.com
+testcontainers.org
+# cloudflare
+cloudflare.com
+daily-cloudcode-pa.googleapis.com
+type.googleapis.com
+cloudcode-pa.googleapis.com
+cherryai.com
+iditena.org
+# telegram
+5.28.192.0/18
